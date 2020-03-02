@@ -1,0 +1,6 @@
+{
+  "name": "Rails API + Webpacker Demo",
+  "description": "An api Rails app + webpacker",
+  "repository": "https://github.com/leonelgalan/rails-api-webpacker-demo",
+  "keywords": ["demo-app", "rails-api", "webpacker", "webpack-html-plugin"]
+}
